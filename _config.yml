@@ -1,0 +1,8 @@
+title: forest1988.GitHub.io
+description: forest1988's User Page of 'GitHub Pages'.
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-cayman
+
+gems:
+  - jekyll-mentions
