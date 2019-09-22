@@ -21,8 +21,18 @@ Technology
 ### International Journal
 
 1. <u>Yusuke Mori</u>, Hiroaki Yamane, Yoshitaka Ushiku, Tatsuya Harada,
-"How narratives move your mind: A corpus of shared-character stories for connecting emotional flow and interestingness," 
-Information Processing & Management, 2019 (In Press), https://doi.org/10.1016/j.ipm.2019.03.006.
+"How narratives move your mind: A corpus of shared-character stories for connecting emotional flow and interestingness,"
+Information Processing & Management,
+Volume 56, Issue 5,
+2019,
+Pages 1865-1879,
+ISSN 0306-4573,
+https://doi.org/10.1016/j.ipm.2019.03.006.
+
+### International Conference
+Yusuke Mori, Hiroaki Yamane, Yusuke Mukuta, Tatsuya Harada, 
+"Toward a Better Story End: Collecting Human Evaluation with Reasons," 
+In Proceedings of the 12th International Conference on Natural Language Generation (INLG 2019), 2019, (accepted)
 
 ### 国内の研究会 (査読なし (unrefereed), in Japanese)
 
