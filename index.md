@@ -7,7 +7,6 @@ I am a Ph.D. Student at Harada Laboratory (Machine Intelligence Laboratory) , Th
 ## Education
 
 - Currently : The University of Tokyo — Ph.D. student, Machine Intelligence Lab.
-Technology
 
 - The University of Tokyo — Master of Information Science and Technology, 2014
   - 修士論文「昆虫全脳シミュレーションに向けたシナプス分布推定及び実環境との接続手法の提案」（in Japanese）
@@ -30,6 +29,7 @@ ISSN 0306-4573,
 https://doi.org/10.1016/j.ipm.2019.03.006.
 
 ### International Conference
+
 1. <u>Yusuke Mori</u>, Hiroaki Yamane, Yusuke Mukuta, Tatsuya Harada, 
 "Toward a Better Story End: Collecting Human Evaluation with Reasons," 
 In Proceedings of the 12th International Conference on Natural Language Generation (INLG 2019), 2019, (accepted)
