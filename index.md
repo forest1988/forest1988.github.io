@@ -32,7 +32,7 @@ https://doi.org/10.1016/j.ipm.2019.03.006.
 
 1. <u>Yusuke Mori</u>, Hiroaki Yamane, Yusuke Mukuta, Tatsuya Harada, 
 "Toward a Better Story End: Collecting Human Evaluation with Reasons," 
-In Proceedings of the 12th International Conference on Natural Language Generation (INLG 2019), 2019, (accepted)
+In Proceedings of the 12th International Conference on Natural Language Generation (INLG 2019), 2019, https://www.aclweb.org/anthology/W19-8646.pdf.
 
 ### 国内の研究会 (査読なし (unrefereed), in Japanese)
 
