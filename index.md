@@ -11,6 +11,7 @@ I am a Ph.D. Student at Harada Laboratory (Machine Intelligence Laboratory) , Th
 - The University of Tokyo — Master of Information Science and Technology, 2014
   - 修士論文「昆虫全脳シミュレーションに向けたシナプス分布推定及び実環境との接続手法の提案」（in Japanese）
   - Adviser: Ryohei Kanzaki (Professor)
+
 - The University of Tokyo — Bachelor of Engineering, 2012
   - 卒業論文「細胞形態を考慮した昆虫一次昆嗅覚中枢シミュレーション」（in Japanese）
   - Adviser: Ryohei Kanzaki (Professor)
@@ -46,6 +47,12 @@ In Proceedings of the 12th International Conference on Natural Language Generati
 1. 加沢 知毅, 宮本 大輔, <u>森 友亮</u>, ハウプト ステファン 周一, 並木 重宏, 神崎 亮平, 池野 英利, 五十嵐 吉輝, 山岸 嘉彦, 小野島 隆之, 小杉 展弘, 西川 郁子, “IOSSIM（昆虫全脳シミュレータ）の開発と応用,” 次世代生命体統合シミュレーションソフトウェアの研究開発（ライフ）公開シンポジウム, 東京, 2013年3月.
 
 
+## Work Experiences
+- 2020-01 ~ 2020-01 :  Gunosy Inc., Research Internship
+- 2017-04 ~ 2018-03 :  Dwango Artificial Intelligence Laboratory, Part-time job (Public relations)
+- 2012-09 ~ 2012~09 :  Ministry of Economy, Trade and Industry, 1-week Internship
+- 2012-08 ~ 2012-09 :  Nikkei Business Publications, Inc., Internship
+
 ## Qualifications
 
 ### Information Science and Technology
@@ -54,3 +61,6 @@ In Proceedings of the 12th International Conference on Natural Language Generati
 
 ### Language
 - TOEIC L&R 915 (2018-09)
+
+### Others
+- 3rd grade Certified Specialist of Intellectual Property Management（administration） (2015-04)
