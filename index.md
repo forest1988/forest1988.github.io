@@ -42,7 +42,7 @@ In Proceedings of the 12th International Conference on Natural Language Generati
 
 <b>査読なし (unrefereed), poster</b>
 1. Tomoki Kazawa, <u>Yusuke Mori</u>, Daisuke Miyamoto, Shigehiro Namiki, Hidetoshi Ikeno, Stephan Shuichi Haupt, Ikuko Nishikawa, Ryohei Kanzaki, “Constructing a multi-compartment parallelized simulation of a premotor area of the silkmoth brain,” 日本比較生理生化学会第35回大会, 兵庫, 2013年7月.
-2. Daisuke Miyamoto, Tomoki Kazawa, Stephan Shuichi Haupt, Shigehiro Namiki, Yohei Sato, Hidehito Sato, <u>Yusuke Mori</u>, Ryota Kobayashi, Hidetoshi Ikeno, Ikuko Nishikawa, Ryohei Kanzaki, “IOSSIM: the framework for constructing multi-compartment neuron models and large scale simulations,” 日本比較生理生化学会第34回大会，神奈川, 2012年7月.
+2. Daisuke Miyamoto, Tomoki Kazawa, Stephan Shuichi Haupt, Shigehiro Namiki, Yohei Sato, Hidehito Sato, <u>Yusuke Mori</u>, Ryota Kobayashi, Hidetoshi Ikeno, Ikuko Nishikawa, Ryohei Kanzaki, “IOSSIM: the framework for constructing multi-compartment neuron models and large scale simulations,” 日本比較生理生化学会第34回大会, 神奈川, 2012年7月.
 
 <b>査読なし (unrefereed), poster, in Japanese</b>
 1. 加沢 知毅, 宮本 大輔, <u>森 友亮</u>, ハウプト ステファン 周一, 並木 重宏, 神崎 亮平, 池野 英利, 五十嵐 吉輝, 山岸 嘉彦, 小野島 隆之, 小杉 展弘, 西川 郁子, “IOSSIM（昆虫全脳シミュレータ）の開発と応用,” 次世代生命体統合シミュレーションソフトウェアの研究開発（ライフ）公開シンポジウム, 東京, 2013年3月.
