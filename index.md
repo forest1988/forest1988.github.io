@@ -2,7 +2,8 @@
 
 ## About Me
 
-I am a Ph.D. Student at Harada Laboratory (Machine Intelligence Laboratory) , The University of Tokyo. My research interests lie in the fields of machine learning, especially with connection to natural language processing.
+I am a Ph.D. Student at Harada Laboratory (Machine Intelligence Laboratory) , The University of Tokyo. My research interests lie in the field of machine learning and its application to natural language processing, particularly in the analysis and generation of stories.
+
 
 ## Education
 
@@ -50,7 +51,7 @@ In Proceedings of the 12th International Conference on Natural Language Generati
 ## Work Experiences
 - 2020-01 ~ 2020-01 :  Gunosy Inc., Research Internship
 - 2017-04 ~ 2018-03 :  Dwango Artificial Intelligence Laboratory, Part-time job (Public relations)
-- 2012-09 ~ 2012~09 :  Ministry of Economy, Trade and Industry, 1-week Internship
+- 2012-09 ~ 2012-09 :  Ministry of Economy, Trade and Industry, 1-week Internship
 - 2012-08 ~ 2012-09 :  Nikkei Business Publications, Inc., Internship
 
 ## Qualifications
