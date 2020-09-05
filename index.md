@@ -51,7 +51,7 @@ In Proceedings of the 12th International Conference on Natural Language Generati
 
 ## Posters
 
-### 国内の学会・研究会・シンポジウム (Domestic Conference, Symposium)
+### 国内の学会・シンポジウム (Domestic Conference, Symposium)
 
 <b>査読なし (unrefereed), poster</b>
 1. Tomoki Kazawa, <u>Yusuke Mori</u>, Daisuke Miyamoto, Shigehiro Namiki, Hidetoshi Ikeno, Stephan Shuichi Haupt, Ikuko Nishikawa, Ryohei Kanzaki, “Constructing a multi-compartment parallelized simulation of a premotor area of the silkmoth brain,” 日本比較生理生化学会第35回大会, 兵庫, 2013年7月.
