@@ -39,8 +39,8 @@ ISSN 0306-4573,
 
 ### International Conference
 
-1. <u>Yusuke Mori</u>, Hiroaki Yamane, Yusuke Mukuta, Tatsuya Harada, 
-"Toward a Better Story End: Collecting Human Evaluation with Reasons," 
+1. <u>Yusuke Mori</u>, Hiroaki Yamane, Yusuke Mukuta, Tatsuya Harada,
+"Toward a Better Story End: Collecting Human Evaluation with Reasons,"
 In Proceedings of the 12th International Conference on Natural Language Generation (INLG 2019), 2019. ([PDF link (to ACL Anthology)](https://www.aclweb.org/anthology/W19-8646.pdf))
 
 ### 国内の研究会 (Domestic Workshop)
@@ -63,8 +63,10 @@ In Proceedings of the 12th International Conference on Natural Language Generati
 
 ## Work Experiences
 
-- 2020-01 ~ 2020-01:  Research Intern - Gunosy Tech Lab R&D team, Gunosy Inc., Tokyo, Japan 
-- 2017-04 ~ 2018-03:  Part-time job - Dwango Artificial Intelligence Laboratory, Dwango, Tokyo, Japan
+- 2020-01 ~ 2020-01:  Research Intern - Gunosy Tech Lab R&D team, Gunosy Inc., Tokyo, Japan
+- 2017-01 ~ 2018-03:  Dwango Artificial Intelligence Laboratory, Dwango, Tokyo, Japan
+  - 2017-04 ~ 2018-03: Part-time worker
+  - 2017-01 ~ 2017-03: Contractor
 - 2012-09 ~ 2012-09:  1-week Intern - Ministry of Economy, Trade and Industry, Tokyo, Japan
 - 2012-08 ~ 2012-09:  Intern - Nikkei Business Publications, Inc., Tokyo, Japan
 
@@ -85,5 +87,5 @@ In Proceedings of the 12th International Conference on Natural Language Generati
 ## Contact
 
 - E-mail: mori at mi.t.u-tokyo.ac.jp
-- [Twitter: @shade_tree2112](https://twitter.com/shade_tree2112) 
+- [Twitter: @shade_tree2112](https://twitter.com/shade_tree2112)
 - [Linkedin](https://www.linkedin.com/in/yusuke-mori-373363186)
