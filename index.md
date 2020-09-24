@@ -67,6 +67,17 @@ In Proceedings of the 12th International Conference on Natural Language Generati
 - 2012-09 ~ 2012-09:  1-week Intern - Ministry of Economy, Trade and Industry, Tokyo, Japan
 - 2012-08 ~ 2012-09:  Intern - Nikkei Business Publications, Inc., Tokyo, Japan
 
+## Activity
+
+### Presentation at Study Group
+
+#### [第41回　コンピュータビジョン勉強会＠関東](https://kantocv.connpass.com/event/62340/)
+
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/u3AkvymrrDUl7E" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/moriemonmist/2017081941cvhierarchicalapproachimageparagraphs" title="20170819第41回CV勉強会＠関東_HierarchicalApproach_ImageParagraphs" target="_blank">20170819第41回CV勉強会＠関東_HierarchicalApproach_ImageParagraphs</a> </strong> from <strong><a href="https://www.slideshare.net/moriemonmist" target="_blank">Yusuke Mori</a></strong> </div>
+
+I introduced "A Hierarchical Approach for Generating Descriptive Image Paragraphs" [Krause et al., CVPR 2017] at the 41st kantocv.
+
+
 ## Qualifications
 
 ### Information Science and Technology
