@@ -1,14 +1,12 @@
-## About Me
+## Biography
 
-My name is Yusuke Mori (森 友亮 in Japanese). I am a Ph.D. Student at [Harada Laboratory (Machine Intelligence Laboratory)](https://www.mi.t.u-tokyo.ac.jp), The University of Tokyo, Japan.
+Yusuke Mori (森 友亮 in Japanese) is a Ph.D. Student at [Harada Laboratory (Machine Intelligence Laboratory)](https://www.mi.t.u-tokyo.ac.jp), The University of Tokyo, Japan.
 
-My research interests lie in the field of machine learning and its application to natural language processing, particularly in the analysis and generation of stories.
-
-I studied neuroscience and computer simulation in the previous laboratory (Kanzaki-Takahashi Laboratory, belonged from 2011-04 to 2014-03).
+He received the M.S. degree in Information Science and Technology (the department of Creative Informatics) from the University of Tokyo, Japan, in 2014. On the basis of his experience working in neuroscience and brain simulation research in the previously belonged laboratory (Kanzaki-Takahashi Laboratory, belonged from 2011-04 to 2014-03), now he has a strong interest in storytelling, machine learning, and natural language processing, which he believes to have a tight relationship with human creativity.
 
 ### Keywords
 
-Natural Language Processing, Natural Language Generation, Storytelling, Emotions
+Natural Language Processing, Natural Language Generation, Machine Learning, Storytelling, Emotions
 
 ## Education
 
