@@ -1,10 +1,14 @@
 ## About Me
 
-My name is Yusuke Mori (森 友亮 in Japanese). I am a Ph.D. Student at Harada Laboratory (Machine Intelligence Laboratory), The University of Tokyo.
+My name is Yusuke Mori (森 友亮 in Japanese). I am a Ph.D. Student at [Harada Laboratory (Machine Intelligence Laboratory)](https://www.mi.t.u-tokyo.ac.jp), The University of Tokyo, Japan.
 
 My research interests lie in the field of machine learning and its application to natural language processing, particularly in the analysis and generation of stories.
 
 I studied neuroscience and computer simulation in the previous laboratory (Kanzaki-Takahashi Laboratory, belonged from 2011-04 to 2014-03).
+
+### Keywords
+
+Natural Language Processing, Natural Language Generation, Storytelling, Emotions
 
 ## Education
 
@@ -19,6 +23,23 @@ I studied neuroscience and computer simulation in the previous laboratory (Kanza
 - The University of Tokyo — Bachelor of Engineering, 2012
   - Graduation Thesis:「細胞形態を考慮した昆虫一次昆嗅覚中枢シミュレーション」（in Japanese）
   - Advisor: Ryohei Kanzaki (Professor)
+
+## Work Experiences
+
+- 2020-01 ~ 2020-01:  Research Intern - Gunosy Tech Lab R&D team, Gunosy Inc., Tokyo, Japan
+- 2017-01 ~ 2018-03:  Dwango Artificial Intelligence Laboratory, Dwango, Tokyo, Japan
+  - 2017-04 ~ 2018-03: Part-time worker
+  - 2017-01 ~ 2017-03: Contractor
+- 2012-09 ~ 2012-09:  1-week Intern - Ministry of Economy, Trade and Industry, Tokyo, Japan
+- 2012-08 ~ 2012-09:  Intern - Nikkei Business Publications, Inc., Tokyo, Japan
+
+## Contact
+
+- E-mail: mori [at] mi.t.u-tokyo.ac.jp
+- [Twitter: @shade_tree2112](https://twitter.com/shade_tree2112)
+- [GitHub: @forest1988](https://github.com/forest1988)
+- [LinkedIn](https://www.linkedin.com/in/yusuke-mori-373363186)
+- [ORCiD](https://orcid.org/0000-0003-2527-7973)
 
 ## Papers
 
@@ -39,10 +60,10 @@ ISSN 0306-4573,
 
 1. <u>Yusuke Mori</u>, Hiroaki Yamane, Yusuke Mukuta, Tatsuya Harada,
 "Toward a Better Story End: Collecting Human Evaluation with Reasons,"
-In Proceedings of the 12th International Conference on Natural Language Generation (INLG 2019), 2019. ([PDF link (to ACL Anthology)](https://www.aclweb.org/anthology/W19-8646.pdf))
-2. <u>Yusuke Mori</u>, Hiroaki Yamane, Yusuke Mukuta and Tatsuya Harada,
+In Proceedings of the 12th International Conference on Natural Language Generation (INLG 2019), 2019. [[PDF link (ACL Anthology)](https://www.aclweb.org/anthology/W19-8646.pdf)]
+2. <u>Yusuke Mori</u>, Hiroaki Yamane, Yusuke Mukuta, Tatsuya Harada,
 "Finding and Generating a Missing Part for Story Completion,"
-4th Joint SIGHUM Workshop on Computational Linguistics for Cultural Heritage, Social Sciences, Humanities and Literature (LaTeCH-CLfL) (COLING 2020, Workshop), 2020 (accepted).
+4th Joint SIGHUM Workshop on Computational Linguistics for Cultural Heritage, Social Sciences, Humanities and Literature (LaTeCH-CLfL) (COLING 2020, Workshop), 2020 (accepted). [[code (coming soon)](https://github.com/mil-tokyo/missing-position-prediction)]
 
 ### 国内の研究会 (Domestic Workshop)
 
@@ -61,16 +82,12 @@ In Proceedings of the 12th International Conference on Natural Language Generati
 <b>査読なし (unrefereed), poster, in Japanese</b>
 1. 加沢 知毅, 宮本 大輔, <u>森 友亮</u>, ハウプト ステファン 周一, 並木 重宏, 神崎 亮平, 池野 英利, 五十嵐 吉輝, 山岸 嘉彦, 小野島 隆之, 小杉 展弘, 西川 郁子, “IOSSIM（昆虫全脳シミュレータ）の開発と応用,” 次世代生命体統合シミュレーションソフトウェアの研究開発（ライフ）公開シンポジウム, 東京, 2013年3月.
 
-## Work Experiences
+## Other Activities
 
-- 2020-01 ~ 2020-01:  Research Intern - Gunosy Tech Lab R&D team, Gunosy Inc., Tokyo, Japan
-- 2017-01 ~ 2018-03:  Dwango Artificial Intelligence Laboratory, Dwango, Tokyo, Japan
-  - 2017-04 ~ 2018-03: Part-time worker
-  - 2017-01 ~ 2017-03: Contractor
-- 2012-09 ~ 2012-09:  1-week Intern - Ministry of Economy, Trade and Industry, Tokyo, Japan
-- 2012-08 ~ 2012-09:  Intern - Nikkei Business Publications, Inc., Tokyo, Japan
+### Open Source Software commitment
 
-## Activity
+- [spacy-course](https://github.com/ines/spacy-course) Japanese translation project
+  - Participated in a project to enable users to use Japanese models in Japanese translated course.
 
 ### Presentation at Study Group
 
@@ -80,7 +97,6 @@ In Proceedings of the 12th International Conference on Natural Language Generati
 
 I introduced "A Hierarchical Approach for Generating Descriptive Image Paragraphs" [Krause et al., CVPR 2017] at the 41st kantocv.
 
-
 ## Qualifications
 
 ### Information Science and Technology
@@ -89,13 +105,10 @@ I introduced "A Hierarchical Approach for Generating Descriptive Image Paragraph
 - Passed Fundamental Information Technology Engineer Examination (FE) (2012-11)
 
 ### Language
+
 - TOEIC L&R 915 (2018-09)
 
 ### Others
+
 - 3rd grade Certified Specialist of Intellectual Property Management（administration） (2015-04)
 
-## Contact
-
-- E-mail: mori at mi.t.u-tokyo.ac.jp
-- [Twitter: @shade_tree2112](https://twitter.com/shade_tree2112)
-- [Linkedin](https://www.linkedin.com/in/yusuke-mori-373363186)
