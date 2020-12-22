@@ -92,6 +92,10 @@ Natural Language Processing, Natural Language Generation, Machine Learning, Stor
 - [spacy-course](https://github.com/ines/spacy-course) Japanese translation project
   - Participated in a project to enable users to use Japanese models in Japanese translated course.
 
+- Hugging Face Datasets Sprint 2020
+  - The detail of the sprint is shown in [HF newsletter](https://huggingface.curated.co/issues/5).
+  - As one of the 275+ participants, I joined the open-source community effort and create PRs of adding datasets.
+
 ### Presentation at Study Group
 
 #### [第 41 回　コンピュータビジョン勉強会＠関東](https://kantocv.connpass.com/event/62340/)
