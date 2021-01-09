@@ -89,14 +89,17 @@ Natural Language Processing, Natural Language Generation, Machine Learning, Stor
 
 ### Open Source Software commitment
 
-- [spacy-course](https://github.com/ines/spacy-course) Japanese translation project
-  - Participated in a project to enable users to use Japanese models in Japanese translated course.
+#### [spacy-course](https://github.com/ines/spacy-course) Japanese translation project
 
-- Hugging Face Datasets Sprint 2020
-  - The detail of the sprint is shown in [HF newsletter](https://huggingface.curated.co/issues/5).
-  - As one of the 275+ participants, I joined the open-source community effort and create PRs of adding datasets.
+- Participated in a project to enable users to use Japanese models in Japanese translated course.
 
-  - A tweet by Hugging Face <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Release alert: the 🤗datasets library v1.2 is available now!<br><br>With:<br>- 611 datasets you can download in one line of python<br>- 467 languages covered, 99 with at least 10 datasets<br>- efficient pre-processing to free you from memory constraints<br><br>Try it out at:<a href="https://t.co/A7rmjGSELy">https://t.co/A7rmjGSELy</a> <a href="https://t.co/c8TETfWfHr">pic.twitter.com/c8TETfWfHr</a></p>&mdash; Hugging Face (@huggingface) <a href="https://twitter.com/huggingface/status/1346398458303934464?ref_src=twsrc%5Etfw">January 5, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+#### Hugging Face Datasets Sprint 2020
+
+- The detail of the sprint is shown in [HF newsletter](https://huggingface.curated.co/issues/5).
+- As one of the 275+ participants, I joined the open-source community effort and create PRs of adding datasets.
+- The datasets added in the sprint is released in Hugging Face Datasets v1.2.
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Release alert: the 🤗datasets library v1.2 is available now!<br><br>With:<br>- 611 datasets you can download in one line of python<br>- 467 languages covered, 99 with at least 10 datasets<br>- efficient pre-processing to free you from memory constraints<br><br>Try it out at:<a href="https://t.co/A7rmjGSELy">https://t.co/A7rmjGSELy</a> <a href="https://t.co/c8TETfWfHr">pic.twitter.com/c8TETfWfHr</a></p>&mdash; Hugging Face (@huggingface) <a href="https://twitter.com/huggingface/status/1346398458303934464?ref_src=twsrc%5Etfw">January 5, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ### Presentation at Study Group
 
