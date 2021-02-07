@@ -60,10 +60,10 @@ Natural Language Processing, Natural Language Generation, Machine Learning, Stor
 
 1. <u>Yusuke Mori</u>, Hiroaki Yamane, Yusuke Mukuta, Tatsuya Harada,
    "Finding and Generating a Missing Part for Story Completion,"
-   4th Joint SIGHUM Workshop on Computational Linguistics for Cultural Heritage, Social Sciences, Humanities and Literature (LaTeCH-CLfL) (COLING 2020, Workshop), 2020. [[PDF link (ACL Anthology)](https://www.aclweb.org/anthology/2020.latechclfl-1.19.pdf) [[code](https://github.com/mil-tokyo/missing-position-prediction)]
+   4th Joint SIGHUM Workshop on Computational Linguistics for Cultural Heritage, Social Sciences, Humanities and Literature (LaTeCH-CLfL) (COLING 2020, Workshop), 2020. [[PDF (ACL Anthology)](https://www.aclweb.org/anthology/2020.latechclfl-1.19.pdf) [[Code (GitHub)](https://github.com/mil-tokyo/missing-position-prediction)] [[Presentation Slide (Workshop website)](https://sighum.files.wordpress.com/2020/12/47-finding-and-generating-a-missing-part-for-story-completion.pdf)]
 2. <u>Yusuke Mori</u>, Hiroaki Yamane, Yusuke Mukuta, Tatsuya Harada,
    "Toward a Better Story End: Collecting Human Evaluation with Reasons,"
-   In Proceedings of the 12th International Conference on Natural Language Generation (INLG 2019), 2019. [[PDF link (ACL Anthology)](https://www.aclweb.org/anthology/W19-8646.pdf)]
+   In Proceedings of the 12th International Conference on Natural Language Generation (INLG 2019), 2019. [[PDF (ACL Anthology)](https://www.aclweb.org/anthology/W19-8646.pdf)]
 
 ### 国内の研究会 (Domestic Workshop)
 
