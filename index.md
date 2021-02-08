@@ -1,6 +1,6 @@
 ## Biography
 
-Yusuke Mori (森 友亮 in Japanese) is a Ph.D. Student at [Harada Laboratory (Machine Intelligence Laboratory)](https://www.mi.t.u-tokyo.ac.jp), The University of Tokyo, Japan.
+Yusuke Mori (森 友亮 in Japanese) is a Ph.D. student at [Harada Laboratory (Machine Intelligence Laboratory)](https://www.mi.t.u-tokyo.ac.jp), The University of Tokyo, Japan.
 
 He received the M.S. degree in Information Science and Technology (the department of Creative Informatics) from the University of Tokyo, Japan, in 2014. On the basis of his experience working in neuroscience and brain simulation research in the previously belonged laboratory (Kanzaki-Takahashi Laboratory, belonged from 2011-04 to 2014-03), now he has a strong interest in storytelling, machine learning, and natural language processing, which he believes to have a tight relationship with human creativity.
 
