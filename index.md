@@ -47,7 +47,15 @@ Natural Language Processing, Natural Language Generation, Machine Learning, Stor
 
 ### International Journal
 
-1. <u>Yusuke Mori</u>, Hiroaki Yamane, Yoshitaka Ushiku, Tatsuya Harada,
+1. Hiroaki Yamane, <u>Yusuke Mori</u>, Tatsuya Harada, "Humor meets morality: Joke generation based on moral judgement,"
+   Information Processing & Management,
+   Volume 58, Issue 3,
+   2021,
+   102520,
+   ISSN 0306-4573,
+   [https://doi.org/10.1016/j.ipm.2021.102520](https://doi.org/10.1016/j.ipm.2021.102520). (open access)
+
+2. <u>Yusuke Mori</u>, Hiroaki Yamane, Yoshitaka Ushiku, Tatsuya Harada,
    "How narratives move your mind: A corpus of shared-character stories for connecting emotional flow and interestingness,"
    Information Processing & Management,
    Volume 56, Issue 5,
