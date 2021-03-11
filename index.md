@@ -77,7 +77,7 @@ Natural Language Processing, Natural Language Generation, Machine Learning, Stor
 
 <b>査読なし (unrefereed), in Japanese</b>
 
-1. <u>森 友亮</u>†, 上原康平†, 原田達也, († equal contribution) "視覚・言語融合 Transformer モデルによる画像からの物語文生成", CAI+CAI first workshop, 言語処理学会第27回年次大会, 福岡（オンライン）, 2021年3月.  [[PDF](https://drive.google.com/file/d/1xC_jGU7ZziIwSSLFe1K-qTbNRwyHeIpD/view?usp=sharing)]
+1. <u>森 友亮</u>†, 上原康平†, 原田達也, († equal contribution) "視覚・言語融合 Transformer モデルによる画像からの物語文生成," CAI+CAI first workshop (言語処理学会第27回年次大会 ワークショップ), 福岡（オンライン）, 2021年3月 (to appear).  [[PDF](https://drive.google.com/file/d/1xC_jGU7ZziIwSSLFe1K-qTbNRwyHeIpD/view?usp=sharing)]
 2. 後藤 昂彦, 加沢 知毅, 宮本 大輔, ハウプト ステファン 周一, <u>森 友亮</u>, 神崎 亮平, “大規模 RCGA による単一ニューロンに対する H-H 型モデルパラメータの推定 〜 カイコガ触角葉ニューロンを対象として 〜,” 信学技報, vol. 113, no. 382, NC2013-68, pp. 7-12, 福岡, 2014 年 1 月.
 3. <u>森 友亮</u>, 加沢 知毅, 宮本 大輔, 神崎 亮平, “昆虫全脳シミューレーションに向けたスーパーコンピュータとのリアルタイム通信の検討,” 信学技報, vol. 113, no. 223, MBE2013-42, NC2013-28, pp. 35-40, 新潟, 2013 年 9 月.
 
