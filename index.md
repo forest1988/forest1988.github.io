@@ -68,7 +68,7 @@ Natural Language Processing, Natural Language Generation, Machine Learning, Stor
 
 1. <u>Yusuke Mori</u>, Hiroaki Yamane, Yusuke Mukuta, Tatsuya Harada,
    "The Nectar of Missing Position Prediction for Story Completion,"
-   Text2Story 2021 (ECIR 2021, Workshop), 2021.
+   Text2Story 2021 (ECIR 2021, Workshop), 2021. [[Video (in the channel of the workshop on YouTube)](https://youtu.be/IfnBtOsXq6M)]
 2. <u>Yusuke Mori</u>, Hiroaki Yamane, Yusuke Mukuta, Tatsuya Harada,
    "Finding and Generating a Missing Part for Story Completion,"
    4th Joint SIGHUM Workshop on Computational Linguistics for Cultural Heritage, Social Sciences, Humanities and Literature (LaTeCH-CLfL) (COLING 2020, Workshop), 2020. [[PDF (ACL Anthology)](https://www.aclweb.org/anthology/2020.latechclfl-1.19.pdf) [[Code (GitHub)](https://github.com/mil-tokyo/missing-position-prediction)] [[Presentation Slide (Workshop website)](https://sighum.files.wordpress.com/2020/12/47-finding-and-generating-a-missing-part-for-story-completion.pdf)]
