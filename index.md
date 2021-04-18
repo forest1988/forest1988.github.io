@@ -115,6 +115,11 @@ Natural Language Processing, Natural Language Generation, Machine Learning, Stor
 
 ### Presentation at Study Group
 
+#### [第六回　全日本コンピュータビジョン勉強会　Transformer論文読み会](https://kantocv.connpass.com/event/205271/)
+
+<script async class="speakerdeck-embed" data-id="7474ba5706bd4753a6e3dd73ee64f53d" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
+
+I introduced An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale” [Dosovitskiy et al, ICLR 2021] at the 6th japancv.
 #### [第 41 回　コンピュータビジョン勉強会＠関東](https://kantocv.connpass.com/event/62340/)
 
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/u3AkvymrrDUl7E" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/moriemonmist/2017081941cvhierarchicalapproachimageparagraphs" title="20170819第41回CV勉強会＠関東_HierarchicalApproach_ImageParagraphs" target="_blank">20170819第41回CV勉強会＠関東_HierarchicalApproach_ImageParagraphs</a> </strong> from <strong><a href="https://www.slideshare.net/moriemonmist" target="_blank">Yusuke Mori</a></strong> </div>
