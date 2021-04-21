@@ -117,7 +117,9 @@ Natural Language Processing, Natural Language Generation, Machine Learning, Stor
 
 #### [第六回　全日本コンピュータビジョン勉強会　Transformer論文読み会](https://kantocv.connpass.com/event/205271/)
 
+<div style="width: 595">
 <script async class="speakerdeck-embed" data-id="7474ba5706bd4753a6e3dd73ee64f53d" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
+</div>
 
 I introduced "An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale” [Dosovitskiy et al, ICLR 2021] at the 6th japancv, on 2021-04-18.
 #### [第 41 回　コンピュータビジョン勉強会＠関東](https://kantocv.connpass.com/event/62340/)
