@@ -24,6 +24,16 @@ Natural Language Processing, Natural Language Generation, Machine Learning, Stor
   - Graduation Thesis:「細胞形態を考慮した昆虫一次昆嗅覚中枢シミュレーション」（in Japanese）
   - Advisor: Ryohei Kanzaki (Professor)
 
+### Extra Curricular Activities
+
+- 2021-02 ~ : 先端研広報サポーター（a Supporter of Public Relations at RCAST）
+- 2012-10 ~ 2015-07: GCL student PR Plan Team (a founding member)
+  - As ​a founding member of public relations planning team of “GCL”​(Graduate Program for Social ICT Global Creative Leaders @ the University of Tokyo), I made the basis of the public relations activity by students.
+- 2010-04 ~ 2012-03: 丁友会委員（Committee member of Teiyukai）
+- 2008-06 ~ 2011-06: Student Journalist of 東京大学新聞社（The University of Tokyo Newspaper: UTNP）
+  - From 2008-11 to 2009-10, I led the Science Articles Department as a chief.
+  - The editor-in-chief of "Todai 2011: Todai à la carte", an information book about UTokyo.
+
 ## Work Experiences
 
 - 2020-01 ~ 2020-01: Research Intern - Gunosy Tech Lab R&D team, Gunosy Inc., Tokyo, Japan
@@ -80,7 +90,7 @@ Natural Language Processing, Natural Language Generation, Machine Learning, Stor
 
 <b>査読なし (unrefereed), in Japanese</b>
 
-1. <u>森 友亮</u>†, 上原康平†, 原田達也, († equal contribution) "視覚・言語融合 Transformer モデルによる画像からの物語文生成," CAI+CAI first workshop (言語処理学会第27回年次大会 ワークショップ), 福岡（オンライン）, 2021年3月.  [[PDF](https://drive.google.com/file/d/1xC_jGU7ZziIwSSLFe1K-qTbNRwyHeIpD/view?usp=sharing)]
+1. <u>森 友亮</u>†, 上原康平†, 原田達也, († equal contribution) "視覚・言語融合 Transformer モデルによる画像からの物語文生成," CAI+CAI first workshop (言語処理学会第 27 回年次大会 ワークショップ), 福岡（オンライン）, 2021 年 3 月. [[PDF](https://drive.google.com/file/d/1xC_jGU7ZziIwSSLFe1K-qTbNRwyHeIpD/view?usp=sharing)]
 2. 後藤 昂彦, 加沢 知毅, 宮本 大輔, ハウプト ステファン 周一, <u>森 友亮</u>, 神崎 亮平, “大規模 RCGA による単一ニューロンに対する H-H 型モデルパラメータの推定 〜 カイコガ触角葉ニューロンを対象として 〜,” 信学技報, vol. 113, no. 382, NC2013-68, pp. 7-12, 福岡, 2014 年 1 月.
 3. <u>森 友亮</u>, 加沢 知毅, 宮本 大輔, 神崎 亮平, “昆虫全脳シミューレーションに向けたスーパーコンピュータとのリアルタイム通信の検討,” 信学技報, vol. 113, no. 223, MBE2013-42, NC2013-28, pp. 35-40, 新潟, 2013 年 9 月.
 
@@ -115,13 +125,14 @@ Natural Language Processing, Natural Language Generation, Machine Learning, Stor
 
 ### Presentation at Study Group
 
-#### [第六回　全日本コンピュータビジョン勉強会　Transformer論文読み会](https://kantocv.connpass.com/event/205271/)
+#### [第六回　全日本コンピュータビジョン勉強会　 Transformer 論文読み会](https://kantocv.connpass.com/event/205271/)
 
 <div style="width: 595">
 <script async class="speakerdeck-embed" data-id="7474ba5706bd4753a6e3dd73ee64f53d" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
 </div>
 
 I introduced "An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale” [Dosovitskiy et al, ICLR 2021] at the 6th japancv, on 2021-04-18.
+
 #### [第 41 回　コンピュータビジョン勉強会＠関東](https://kantocv.connpass.com/event/62340/)
 
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/u3AkvymrrDUl7E" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/moriemonmist/2017081941cvhierarchicalapproachimageparagraphs" title="20170819第41回CV勉強会＠関東_HierarchicalApproach_ImageParagraphs" target="_blank">20170819第41回CV勉強会＠関東_HierarchicalApproach_ImageParagraphs</a> </strong> from <strong><a href="https://www.slideshare.net/moriemonmist" target="_blank">Yusuke Mori</a></strong> </div>
