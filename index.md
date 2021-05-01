@@ -107,6 +107,19 @@ Natural Language Processing, Natural Language Generation, Machine Learning, Stor
 
 1. 加沢 知毅, 宮本 大輔, <u>森 友亮</u>, ハウプト ステファン 周一, 並木 重宏, 神崎 亮平, 池野 英利, 五十嵐 吉輝, 山岸 嘉彦, 小野島 隆之, 小杉 展弘, 西川 郁子, “IOSSIM（昆虫全脳シミュレータ）の開発と応用,” 次世代生命体統合シミュレーションソフトウェアの研究開発（ライフ）公開シンポジウム, 東京, 2013 年 3 月.
 
+
+## Projects
+
+### Missing Position Prediction
+
+We proposed a new task of story understanding "Missing Position Prediction", aiming human creative writing assistance [Mori et al., LaTeCH-CLfL 2020, Text2Story 2021].
+
+You can access the code of the prototype demonstration system from [here](https://github.com/mil-tokyo/mppsc-demo).
+
+The code can be run in your local environment or the Google Colab.
+
+<img src="https://user-images.githubusercontent.com/2755894/112496809-6278ed80-8dc8-11eb-986c-d666c5a3b3cf.png" alt="mppsc-demo-prototype" title="mppsc-demo-prototype" width=800>
+
 ## Other Activities
 
 ### Open Source Software commitment
