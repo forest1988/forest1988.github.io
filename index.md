@@ -1,6 +1,6 @@
 ## Biography
 
-Yusuke Mori (森 友亮 in Japanese) is a Ph.D. student at [Harada Laboratory (Machine Intelligence Laboratory)](https://www.mi.t.u-tokyo.ac.jp), The University of Tokyo, Japan.
+Yusuke Mori (森 友亮 in Japanese) is a Ph.D. student at [Harada Mukuta Laboratory (Machine Intelligence Laboratory)](https://www.mi.t.u-tokyo.ac.jp), The University of Tokyo, Japan.
 
 He received the M.S. degree in Information Science and Technology (the department of Creative Informatics) from the University of Tokyo, Japan, in 2014. On the basis of his experience working in neuroscience and brain simulation research in the previously belonged laboratory (Kanzaki-Takahashi Laboratory, belonged from 2011-04 to 2014-03), now he has a strong interest in storytelling, machine learning, and natural language processing, which he believes to have a tight relationship with human creativity.
 
@@ -26,8 +26,8 @@ Natural Language Processing, Natural Language Generation, Machine Learning, Stor
 
 ### Extra Curricular Activities
 
-- 2021-02 ~ : 先端研広報サポーター（a Supporter of Public Relations at RCAST）
-- 2012-10 ~ 2015-07: GCL student PR Plan Team (a founding member)
+- 2021-02 ~ : 先端研広報サポーター（Public Relations Supporter at RCAST）
+- 2012-10 ~ 2015-07: GCL student PR Plan Team (founding member)
   - As ​a founding member of public relations planning team of “GCL”​(Graduate Program for Social ICT Global Creative Leaders @ the University of Tokyo), I made the basis of the public relations activity by students.
 - 2010-04 ~ 2012-03: 丁友会委員（Committee member of Teiyukai）
 - 2008-06 ~ 2011-06: Student Journalist of 東京大学新聞社（The University of Tokyo Newspaper: UTNP）
@@ -90,7 +90,7 @@ Natural Language Processing, Natural Language Generation, Machine Learning, Stor
 
 <b>査読なし (unrefereed), in Japanese</b>
 
-1. <u>森 友亮</u>†, 上原康平†, 原田達也, († equal contribution) "視覚・言語融合 Transformer モデルによる画像からの物語文生成," CAI+CAI first workshop (言語処理学会第 27 回年次大会 ワークショップ), 福岡（オンライン）, 2021 年 3 月. [[PDF (Workshop website)](https://drive.google.com/file/d/1WipLdMwbNs12Tj5A6_G7X3zzHLdCSo_n/view?usp=sharing)] [[Presentation Slide (Workshop website)](https://drive.google.com/file/d/1LNA_aoIAlXuTnZJqZ-3MlB4qj4vTpmvm/view?usp=sharing)]
+1. <u>森 友亮</u>†, 上原康平†, 原田達也, († equal contribution) "視覚・言語融合 Transformer モデルによる画像からの物語文生成," CAI+CAI first workshop (言語処理学会第 27 回年次大会 ワークショップ), 福岡（オンライン）, 2021 年 3 月. [[PDF (Workshop website)](https://drive.google.com/file/d/1WipLdMwbNs12Tj5A6_G7X3zzHLdCSo_n/view?usp=sharing)] [[Presentation Slides (Workshop website)](https://drive.google.com/file/d/1LNA_aoIAlXuTnZJqZ-3MlB4qj4vTpmvm/view?usp=sharing)]
 2. 後藤 昂彦, 加沢 知毅, 宮本 大輔, ハウプト ステファン 周一, <u>森 友亮</u>, 神崎 亮平, “大規模 RCGA による単一ニューロンに対する H-H 型モデルパラメータの推定 〜 カイコガ触角葉ニューロンを対象として 〜,” 信学技報, vol. 113, no. 382, NC2013-68, pp. 7-12, 福岡, 2014 年 1 月.
 3. <u>森 友亮</u>, 加沢 知毅, 宮本 大輔, 神崎 亮平, “昆虫全脳シミューレーションに向けたスーパーコンピュータとのリアルタイム通信の検討,” 信学技報, vol. 113, no. 223, MBE2013-42, NC2013-28, pp. 35-40, 新潟, 2013 年 9 月.
 
