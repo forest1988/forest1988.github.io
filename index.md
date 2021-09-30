@@ -1,8 +1,9 @@
 ## Biography
 
-Yusuke Mori (森 友亮 in Japanese) is a Ph.D. student at [Harada Mukuta Laboratory (Machine Intelligence Laboratory)](https://www.mi.t.u-tokyo.ac.jp), The University of Tokyo, Japan.
+Yusuke Mori (森 友亮 in Japanese) received Ph.D. in the field of Information Science and Technology from the University of Tokyo, Japan, in 2021. 
 
-He received the M.S. degree in Information Science and Technology (the department of Creative Informatics) from the University of Tokyo, Japan, in 2014. On the basis of his experience working in neuroscience and brain simulation research in the previously belonged laboratory (Kanzaki-Takahashi Laboratory, belonged from 2011-04 to 2014-03), now he has a strong interest in storytelling, machine learning, and natural language processing, which he believes to have a tight relationship with human creativity.
+He completed the doctoral course as a member of [Harada-Mukuta Laboratory (Machine Intelligence Laboratory)](https://www.mi.t.u-tokyo.ac.jp).
+On the basis of his experience working in neuroscience and brain simulation research in [Kanzaki laboratory](http://www.brain.rcast.u-tokyo.ac.jp) (belonged from 2011-04 to 2014-03), now he has a strong interest in storytelling, machine learning, and natural language processing, which he believes to have a tight relationship with human creativity.
 
 ### Keywords
 
@@ -10,9 +11,9 @@ Natural Language Processing, Natural Language Generation, Machine Learning, Stor
 
 ## Education
 
-- Currently : The University of Tokyo — Ph.D. student, Machine Intelligence Lab.
+- The University of Tokyo — Doctor of Philosophy in the field of Information Science and Technology, 2021
 
-  - Working on machine learning and natural language processing.
+  - Worked on machine learning and natural language processing.
   - Advisor: Tatsuya Harada (Professor)
 
 - The University of Tokyo — Master of Information Science and Technology, 2014
@@ -26,7 +27,7 @@ Natural Language Processing, Natural Language Generation, Machine Learning, Stor
 
 ### Extra Curricular Activities
 
-- 2021-02 ~ : 先端研広報サポーター（Public Relations Supporter at RCAST）
+- 2021-02 ~ 2021-09: 先端研広報サポーター（Public Relations Supporter at RCAST）
 - 2012-10 ~ 2015-07: GCL student PR Plan Team (founding member)
   - As ​a founding member of public relations planning team of “GCL”​(Graduate Program for Social ICT Global Creative Leaders @ the University of Tokyo), I made the basis of the public relations activity by students.
 - 2010-04 ~ 2012-03: 丁友会委員（Committee member of Teiyukai）
@@ -45,7 +46,7 @@ Natural Language Processing, Natural Language Generation, Machine Learning, Stor
 
 ## Contact
 
-- E-mail: mori [at] mi.t.u-tokyo.ac.jp
+- E-mail: ymori2112 [at] gmail.com
 - [Twitter: @shade_tree2112](https://twitter.com/shade_tree2112)
 - [GitHub: @forest1988](https://github.com/forest1988)
 - [LinkedIn](https://www.linkedin.com/in/yusuke-mori-373363186)
@@ -141,13 +142,13 @@ The code can be run in your local environment or the Google Colab.
 
 #### [第七回　全日本コンピュータビジョン勉強会　 CVPR2021読み会](https://kantocv.connpass.com/event/216703/)
 
-<div style="width: 595">
+<div style="max-width: 595">
 <script async class="speakerdeck-embed" data-id="aad16c95e0c94100bc9e447548648ce8" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
 </div>
 
 #### [第六回　全日本コンピュータビジョン勉強会　 Transformer 論文読み会](https://kantocv.connpass.com/event/205271/)
 
-<div style="width: 595">
+<div style="max-width: 595">
 <script async class="speakerdeck-embed" data-id="7474ba5706bd4753a6e3dd73ee64f53d" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
 </div>
 
