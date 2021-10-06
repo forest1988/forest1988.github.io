@@ -7,7 +7,7 @@ show_sidebar: false
 ---
 
 Currently in the process of migrating to the following page:
-**https://www.mori.ai**
+[**https://www.mori.ai**](https://www.mori.ai)
 
 ## Biography
 
