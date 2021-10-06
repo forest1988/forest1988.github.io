@@ -5,6 +5,10 @@ layout: page
 # callouts: home_callouts
 show_sidebar: false
 ---
+
+Currently in the process of migrating to the following page:
+**https://www.mori.ai**
+
 ## Biography
 
 Yusuke Mori (森 友亮 in Japanese) received Ph.D. in the field of Information Science and Technology from the University of Tokyo, Japan, in 2021. 
