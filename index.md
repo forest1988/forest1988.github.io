@@ -1,3 +1,10 @@
+---
+title: Yusuke Mori's Website
+subtitle: 
+layout: page
+# callouts: home_callouts
+show_sidebar: false
+---
 ## Biography
 
 Yusuke Mori (森 友亮 in Japanese) received Ph.D. in the field of Information Science and Technology from the University of Tokyo, Japan, in 2021. 
@@ -7,7 +14,11 @@ On the basis of his experience working in neuroscience and brain simulation rese
 
 ### Keywords
 
-Natural Language Processing, Natural Language Generation, Machine Learning, Storytelling, Emotions
+- Natural Language Processing
+- Natural Language Generation
+- Machine Learning
+- Storytelling
+- Emotions
 
 ## Education
 
@@ -37,6 +48,7 @@ Natural Language Processing, Natural Language Generation, Machine Learning, Stor
 
 ## Work Experiences
 
+- 2021-10 ~: Corporate Researcher
 - 2020-01 ~ 2020-01: Research Intern - Gunosy Tech Lab R&D team, Gunosy Inc., Tokyo, Japan
 - 2017-01 ~ 2018-03: Dwango Artificial Intelligence Laboratory, Dwango, Tokyo, Japan
   - 2017-04 ~ 2018-03: Part-time worker
@@ -49,8 +61,8 @@ Natural Language Processing, Natural Language Generation, Machine Learning, Stor
 - E-mail: ymori2112 [at] gmail.com
 - [Twitter: @shade_tree2112](https://twitter.com/shade_tree2112)
 - [GitHub: @forest1988](https://github.com/forest1988)
-- [LinkedIn](https://www.linkedin.com/in/yusuke-mori-373363186)
-- [ORCiD](https://orcid.org/0000-0003-2527-7973)
+<!-- - [LinkedIn](https://www.linkedin.com/in/yusuke-mori-373363186) -->
+<!-- - [ORCiD](https://orcid.org/0000-0003-2527-7973) -->
 
 ## Papers
 
@@ -142,13 +154,13 @@ The code can be run in your local environment or the Google Colab.
 
 #### [第七回　全日本コンピュータビジョン勉強会　 CVPR2021読み会](https://kantocv.connpass.com/event/216703/)
 
-<div style="width: 500px">
+<div style="width: 600px">
 <script async class="speakerdeck-embed" data-id="aad16c95e0c94100bc9e447548648ce8" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
 </div>
 
 #### [第六回　全日本コンピュータビジョン勉強会　 Transformer 論文読み会](https://kantocv.connpass.com/event/205271/)
 
-<div style="width: 500px">
+<div style="width: 600px">
 <script async class="speakerdeck-embed" data-id="7474ba5706bd4753a6e3dd73ee64f53d" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
 </div>
 
