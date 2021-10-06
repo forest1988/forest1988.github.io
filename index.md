@@ -142,13 +142,13 @@ The code can be run in your local environment or the Google Colab.
 
 #### [第七回　全日本コンピュータビジョン勉強会　 CVPR2021読み会](https://kantocv.connpass.com/event/216703/)
 
-<div style="width: 500px”>
+<div style="width: 500px">
 <script async class="speakerdeck-embed" data-id="aad16c95e0c94100bc9e447548648ce8" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
 </div>
 
 #### [第六回　全日本コンピュータビジョン勉強会　 Transformer 論文読み会](https://kantocv.connpass.com/event/205271/)
 
-<div style="width: 500px”>
+<div style="width: 500px">
 <script async class="speakerdeck-embed" data-id="7474ba5706bd4753a6e3dd73ee64f53d" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
 </div>
 
